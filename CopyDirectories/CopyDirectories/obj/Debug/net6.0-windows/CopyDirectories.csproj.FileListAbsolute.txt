@@ -1,0 +1,34 @@
+H:\C#\Api_core\CopyDirectories\CopyDirectories\bin\Debug\net6.0-windows\CopyDirectories.exe
+H:\C#\Api_core\CopyDirectories\CopyDirectories\bin\Debug\net6.0-windows\CopyDirectories.deps.json
+H:\C#\Api_core\CopyDirectories\CopyDirectories\bin\Debug\net6.0-windows\CopyDirectories.runtimeconfig.json
+H:\C#\Api_core\CopyDirectories\CopyDirectories\bin\Debug\net6.0-windows\CopyDirectories.dll
+H:\C#\Api_core\CopyDirectories\CopyDirectories\bin\Debug\net6.0-windows\CopyDirectories.pdb
+H:\C#\Api_core\CopyDirectories\CopyDirectories\obj\Debug\net6.0-windows\CopyDirectories.csproj.AssemblyReference.cache
+H:\C#\Api_core\CopyDirectories\CopyDirectories\obj\Debug\net6.0-windows\CopyDirectories.Form1.resources
+H:\C#\Api_core\CopyDirectories\CopyDirectories\obj\Debug\net6.0-windows\CopyDirectories.csproj.GenerateResource.cache
+H:\C#\Api_core\CopyDirectories\CopyDirectories\obj\Debug\net6.0-windows\CopyDirectories.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\Api_core\CopyDirectories\CopyDirectories\obj\Debug\net6.0-windows\CopyDirectories.AssemblyInfoInputs.cache
+H:\C#\Api_core\CopyDirectories\CopyDirectories\obj\Debug\net6.0-windows\CopyDirectories.AssemblyInfo.cs
+H:\C#\Api_core\CopyDirectories\CopyDirectories\obj\Debug\net6.0-windows\CopyDirectories.csproj.CoreCompileInputs.cache
+H:\C#\Api_core\CopyDirectories\CopyDirectories\obj\Debug\net6.0-windows\CopyDirectories.dll
+H:\C#\Api_core\CopyDirectories\CopyDirectories\obj\Debug\net6.0-windows\refint\CopyDirectories.dll
+H:\C#\Api_core\CopyDirectories\CopyDirectories\obj\Debug\net6.0-windows\CopyDirectories.pdb
+H:\C#\Api_core\CopyDirectories\CopyDirectories\obj\Debug\net6.0-windows\CopyDirectories.genruntimeconfig.cache
+H:\C#\Api_core\CopyDirectories\CopyDirectories\obj\Debug\net6.0-windows\ref\CopyDirectories.dll
+I:\הגשת מבחנים ועבודות\Group1\API_Core\9\דסי גנוט וריקי פרוש\CopyDirectories\CopyDirectories\bin\Debug\net6.0-windows\CopyDirectories.exe
+I:\הגשת מבחנים ועבודות\Group1\API_Core\9\דסי גנוט וריקי פרוש\CopyDirectories\CopyDirectories\bin\Debug\net6.0-windows\CopyDirectories.deps.json
+I:\הגשת מבחנים ועבודות\Group1\API_Core\9\דסי גנוט וריקי פרוש\CopyDirectories\CopyDirectories\bin\Debug\net6.0-windows\CopyDirectories.runtimeconfig.json
+I:\הגשת מבחנים ועבודות\Group1\API_Core\9\דסי גנוט וריקי פרוש\CopyDirectories\CopyDirectories\bin\Debug\net6.0-windows\CopyDirectories.dll
+I:\הגשת מבחנים ועבודות\Group1\API_Core\9\דסי גנוט וריקי פרוש\CopyDirectories\CopyDirectories\bin\Debug\net6.0-windows\CopyDirectories.pdb
+I:\הגשת מבחנים ועבודות\Group1\API_Core\9\דסי גנוט וריקי פרוש\CopyDirectories\CopyDirectories\obj\Debug\net6.0-windows\CopyDirectories.csproj.AssemblyReference.cache
+I:\הגשת מבחנים ועבודות\Group1\API_Core\9\דסי גנוט וריקי פרוש\CopyDirectories\CopyDirectories\obj\Debug\net6.0-windows\CopyDirectories.Form1.resources
+I:\הגשת מבחנים ועבודות\Group1\API_Core\9\דסי גנוט וריקי פרוש\CopyDirectories\CopyDirectories\obj\Debug\net6.0-windows\CopyDirectories.csproj.GenerateResource.cache
+I:\הגשת מבחנים ועבודות\Group1\API_Core\9\דסי גנוט וריקי פרוש\CopyDirectories\CopyDirectories\obj\Debug\net6.0-windows\CopyDirectories.GeneratedMSBuildEditorConfig.editorconfig
+I:\הגשת מבחנים ועבודות\Group1\API_Core\9\דסי גנוט וריקי פרוש\CopyDirectories\CopyDirectories\obj\Debug\net6.0-windows\CopyDirectories.AssemblyInfoInputs.cache
+I:\הגשת מבחנים ועבודות\Group1\API_Core\9\דסי גנוט וריקי פרוש\CopyDirectories\CopyDirectories\obj\Debug\net6.0-windows\CopyDirectories.AssemblyInfo.cs
+I:\הגשת מבחנים ועבודות\Group1\API_Core\9\דסי גנוט וריקי פרוש\CopyDirectories\CopyDirectories\obj\Debug\net6.0-windows\CopyDirectories.csproj.CoreCompileInputs.cache
+I:\הגשת מבחנים ועבודות\Group1\API_Core\9\דסי גנוט וריקי פרוש\CopyDirectories\CopyDirectories\obj\Debug\net6.0-windows\CopyDirectories.dll
+I:\הגשת מבחנים ועבודות\Group1\API_Core\9\דסי גנוט וריקי פרוש\CopyDirectories\CopyDirectories\obj\Debug\net6.0-windows\refint\CopyDirectories.dll
+I:\הגשת מבחנים ועבודות\Group1\API_Core\9\דסי גנוט וריקי פרוש\CopyDirectories\CopyDirectories\obj\Debug\net6.0-windows\CopyDirectories.pdb
+I:\הגשת מבחנים ועבודות\Group1\API_Core\9\דסי גנוט וריקי פרוש\CopyDirectories\CopyDirectories\obj\Debug\net6.0-windows\CopyDirectories.genruntimeconfig.cache
+I:\הגשת מבחנים ועבודות\Group1\API_Core\9\דסי גנוט וריקי פרוש\CopyDirectories\CopyDirectories\obj\Debug\net6.0-windows\ref\CopyDirectories.dll
